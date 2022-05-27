@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background-color: rgb(176, 113, 236);
+}
+header {
+  margin-top: 100px !important;
+}
+header h1:first-child {
+  text-transform: uppercase;
+}
+header h1:last-child {
+  text-decoration: underline;
+}
+#desc {
+  font-style: italic;
+}
+#tempunit {
+  color: blue;
+  cursor: pointer;
+  font-weight: bold;
+}
